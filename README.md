@@ -16,9 +16,8 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
  - 📊 Completed a Power BI Desktop project that focused on analyzing customer churn rates.
  - The project included developing an interactive dashboard to visualize and explore churn patterns, taking into account various customer demographics and financial metrics.
 
-#### Project Structure
- - The project on customer churn rate analysis included the following tasks:
- - 1st imported the Churn Data to the PowerBI Desk
+#### The project on customer churn rate analysis included the following tasks:
+ - 1st imported the Churn Data to the PowerBI Desktop
  -  Transformed the data by following the below steps:
      -  customer_id: ID of the customer
      -  **surname:** (Not relevant for visulatisation, hence deleted from the dataset)
@@ -33,8 +32,9 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
      -  IsActiveMember: 1 for Active customers, 0 for Inactive customers
      -  **estimated_salary:** Salary of the customer (Not relevant for visulatisation, hence deleted from the dataset)
      -  Churned: Whether the customer has left the bank (1 for churned, 0 for not churned)
-     -  Add column from example: Created a new column for product names (e.g., Products Prod 1, Prod 2, etc.).
-      **Replace values:**
+     -  Add column from example: Created a new column for product names (e.g., Products Prod 1, Prod 2, etc.).<br/>
+     
+     - **Replace values:**
          - Replaced credit card status values with 'Owned' (1) or 'Not Owned' (0).
          - Replaced IsActiveMember values with 'Active' (1) or 'Inactive' (0).
 
@@ -63,9 +63,9 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
  **Synopsis**:<br/>
     - 📈 Successfully completed a comprehensive customer churn rate analysis project using Power BI Desktop. <br/>
     - 📊 Created various visualizations, including donut charts plots for Customers by  Gender,Status,Products,CreditCard,Geography credit score, country, gender, 
-    Line and Clustered charts for (Customer and Churn Rate by Age_bins, Balance_Bins,CreditScore_Group .<br/>
+          Line and Clustered charts for (Customer and Churn Rate by Age_bins, Balance_Bins,CreditScore_Group .<br/>
     - 📉 Developed key performance indicators (KPIs) using DAX commands to measure the number of customers, number of customers lost, and churn rate. <br/>
-    - 🎛️ Implemented interactive slicers based on various demographics to enhance data exploration. <br/>
+    - 🎛️ Created the slicers "Churned Status" based on various demographics to enhance data exploration. <br/>
     - 🛠️ Cleaned and preprocessed data using Power BI Query for accurate analysis. <br/>
    
    ![Churn_Analysis](https://github.com/user-attachments/assets/e244407a-b9dc-45bd-b6a1-59de826c5e4d)
