@@ -67,8 +67,9 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
     - 📉 Developed key performance indicators (KPIs) using DAX commands to measure the number of customers, number of customers lost, and churn rate. <br/>
     - 🎛️ Implemented interactive slicers based on various demographics to enhance data exploration. <br/>
     - 🛠️ Cleaned and preprocessed data using Power BI Query for accurate analysis. <br/>
+   
+   ![Churn_Analysis](https://github.com/user-attachments/assets/e244407a-b9dc-45bd-b6a1-59de826c5e4d)
 
-     ![Churn_Analysis](https://github.com/user-attachments/assets/2aee0466-3aa1-4a3f-b5f2-387c4446ac89)
 
 
 
