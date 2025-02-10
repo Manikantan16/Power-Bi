@@ -20,19 +20,19 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
  - 1st imported the Churn Data to the PowerBI Desktop
  -  Transformed the data by following the below steps:
      -  customer_id: ID of the customer
-     -  **surname:** (Not relevant for visulatisation, hence deleted from the dataset)
+     -  **surname:** (Not relevant for visualization, hence deleted the column from the dataset)
      -  credit_score: (credit score) of the customer
      -  Geography : Country of the customer
      -  gender: Gender of the customer (Male or Female)
      -  age: Age of the customer
-     -  tenure: Number of years the customer has been with the bank
+     -  tenure: Number of years the customer has been associated with the bank
      -  balance: Account balance
      -  NumOfProducts: Product categorized by number
-     -  HasCrCard: Whether the customer owns (1) or does not down (0) a credit card
+     -  HasCrCard: Whether the customer own (1) or does not down (0) a credit card
      -  IsActiveMember: 1 for Active customers, 0 for Inactive customers
-     -  **estimated_salary:** Salary of the customer (Not relevant for visulatisation, hence deleted from the dataset)
+     -  **estimated_salary:** Salary of the customer (Not relevant for visualization, hence deleted the columnn from the dataset)
      -  Churned: Whether the customer has left the bank (1 for churned, 0 for not churned)
-     -  Add column from example: Created a new column for product names (e.g., Products Prod 1, Prod 2, etc.).<br/>
+     -  Created a new column called **Products** (e.g., Prod1, Prod2, Prod3) based on the **NumOfProduct** (1, 2, 3) doesnt give any meaningful insight<br/>
      
      - **Replace values:**
          - Replaced credit card status values with 'Owned' (1) or 'Not Owned' (0).
