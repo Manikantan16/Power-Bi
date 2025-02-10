@@ -28,7 +28,7 @@ Power BI is a business analytics tool developed by Microsoft. It helps users vis
      -  tenure: Number of years the customer has been associated with the bank.
      -  balance: Account balance.
      -  NumOfProducts: Product categorized by number.
-     -  HasCrCard: Whether the customer own (1) or does not down (0) a credit card.
+     -  HasCrCard: Whether the customer own (1) or does not own (0) a credit card.
      -  IsActiveMember: 1 for Active customers, 0 for Inactive customers.
      -  **estimated_salary:** Salary of the customer (Not relevant for visualization, hence deleted the columnn from the dataset).
      -  Churned: Whether the customer has left the bank (1 for churned, 0 for not churned).
